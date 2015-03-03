@@ -2,7 +2,7 @@ Kivy_Matplotlib
 ===============
 
 Simple widget to display a Matplotlib Figure in kivy. Also a basic toolbar widget to pan and zoom the plot.
-**Android/IOS not supported for the moment**
+**Android/IOS not supported (until matplotlib can be ported to those systems)**
 
 Usage
 ======
