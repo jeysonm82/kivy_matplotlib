@@ -6,7 +6,7 @@ Simple widget to display a Matplotlib Figure in kivy. Also a basic toolbar widge
 
 Usage
 ======
-**Basic usage**
+**Basic example**
 ```python
 import matplotlib as mpl
 from kivy_matplotlib import MatplotFigure
@@ -75,4 +75,4 @@ Requirements
 
 Credits
 =======
-Jeyson Molina <jeyson.mco at gmail.com>
+Jeyson Molina (jeyson.mco at gmail.com)
